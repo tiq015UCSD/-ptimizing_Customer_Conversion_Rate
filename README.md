@@ -33,3 +33,5 @@ The goal is to come up with recommendations for the product and the marketing te
 
 7. After completing your model, think about what would be the next after having the prediction? Eg. how to improve conversion rate based on the prediction?
 
+## The link to the project
+https://github.com/tiq015UCSD/Optimizing_Customer_Conversion_Rate/blob/main/Tian_Qin_Conversion_Rate.ipynb
