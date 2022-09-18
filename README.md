@@ -1,5 +1,7 @@
 # Optimizing Customer Conversion Rate
 
+- The link to the project: https://github.com/tiq015UCSD/Optimizing_Customer_Conversion_Rate/blob/main/Tian_Qin_Conversion_Rate.ipynb
+
 We have data about users who hit an E-commerce site. We know some of their characteristics, such as their country, marketing channel, age, whether they are repeat users, and the number of pages visited during that session. We also know whether they converted or not.
 
 The goal is to come up with recommendations for the product and the marketing teams to improve conversion rate.
@@ -32,6 +34,3 @@ The goal is to come up with recommendations for the product and the marketing te
 6. How do you predict the conversion rate? What model do you wanna use? Implement it
 
 7. After completing your model, think about what would be the next after having the prediction? Eg. how to improve conversion rate based on the prediction?
-
-## The link to the project
-https://github.com/tiq015UCSD/Optimizing_Customer_Conversion_Rate/blob/main/Tian_Qin_Conversion_Rate.ipynb
